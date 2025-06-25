@@ -185,7 +185,7 @@ hobbies: ["Gaming", "Guitar", "Piano", "TTRPGs", "Reading", "Swimming"]
 
 ![Chris' GitHub stats](https://github-readme-stats.vercel.app/api?username=Mindful-Developer&show_icons=true&theme=radical)
 
-![Snake animation](https://github.com/Mindful-Developer/Mindful-Developer/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Mindful-Developer/Mindful-Developer/output/github-contribution-grid-snake-dark.svg)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
