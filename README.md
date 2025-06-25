@@ -183,7 +183,7 @@ hobbies: ["Gaming", "Guitar", "Piano", "TTRPGs", "Reading", "Swimming"]
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-<h2>Github Stats</h2>
+<h2>GitHub Stats</h2>
 
 <div align="center">
   
