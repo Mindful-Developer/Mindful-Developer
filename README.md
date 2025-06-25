@@ -23,7 +23,7 @@
 
 ---
 
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me</h2>
+<h2>About Me</h2>
 
 ```yaml
 name: Christopher Busse
